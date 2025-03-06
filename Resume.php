@@ -11,7 +11,7 @@
 
         <!-- Full Name -->
         <label for="name">Full Name:</label><br>
-        <input type="text" id="name" name="name" required placeholder="Enter your full name"><br><br>
+        <input type="text" id="name" name="name" required placeholder="Enter your Full name"><br><br>
 
         <!-- Email Address -->
         <label for="email">Email:</label><br>
